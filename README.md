@@ -1,80 +1,41 @@
-<body>
-    <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sarif&color=cyan&size=25&center=true&vCenter=true&width=400&height=50&lines=Hi+this+is+Endika..&hearts;++; Self-taught+Android+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-    </p>
-    <h1 align="center">
-        Hey there, I´m Endika. Welcome to my GitHub profile!
-    </h1>
-    <div title="contact" align="center">
-        <a href="https://www.linkedin.com/in/endika-correia-alonso/"><img alt="Linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="todo"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </div>
-    <br>
-    <p align="center">
-    🌱 Currently learning Jetpack compose (Kotlin).
-    </p>
-    <div title="Known_technologies" align="center">
-        <!-- LANGUAGES -->
-        <h3 align="center">Languages</h3>
-         <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=-5C2D91">
-        <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white">
-        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=&logoColor=white">
-        <!-- IDES -->
-        <h3 align="centFfer">IDEs</h3>
-        <img alt="clion" src="https://img.shields.io/badge/Android Studio-white?style=for-the-badge&logo=androidstudio&logoColor=green">
-        <img alt="clion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-        <img alt="vscode_badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img alt="vs_badge" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        <h3 align="center">Tools</h3>
-        <!-- TOOLS -->
-        <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img alt="shell script" src="https://img.shields.io/badge/shell script-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white">
-        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase">
-        <img alt="Google play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
-        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    </div>
-    <br>
-    <div title="Remarkable projects" align="center">
-         <div title="statistics" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=endikaco&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" height="120" alt="endikaco"/>
-    </div>
-          <br>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Project name</th>
-                        <th>Brief description</th>
-                        <th>Language / Technology</th>
-                    </tr>
-                </thead>
-                <tbody>
-                 <tr>
-                        <td align="center"><a href="https://github.com/EndikaCo/42_philosophers">42_Philoshophers</a></td>
-                        <td>Multi-thread managing program representing the problem of the dining philosophers.</td>
-                        <td align="center">C / Makefile</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/">42_cpp</a></td>
-                        <td>OOP small programs to learned the bases of C++ language.</td>
-                        <td align="center">C++ / Makefile</td>
-                    </tr>
-                </tbody>
-            </table>
-    </div>
-<div>
+# Hey there, I'm Endika. Welcome to my profile!
 
+[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endika-correia-alonso-023b27121/)
+[![Gmail contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endikacorreia@gmail.com)
 
------
+📱 Android developer.  
+🌱 Currently learning Jetpack compose (Kotlin).  
 
-<br>
+### Languajes
+![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin&logoColor=-black)
+![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell%20script-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Skills
+![Android Studio](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=androidstudio&logoColor=green)
+![Compose](https://img.shields.io/badge/Compose-grey?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/</>XML-black.svg?style=for-the-badge&logo=xml&logoColor=white)
+![ROOM](https://img.shields.io/badge/ROOM-grey?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=Firebase)  
+![Google Play](https://img.shields.io/badge/Play_Store-grey?style=for-the-badge&logo=google-play&logoColor=cyan)
+![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions_CI/CD-D24939?style=for-the-badge&logo=GitHub&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+| Project Name | Brief Description | Language / Technology |
+| --- | --- | --- |
+| [app_bluetooth_bike](https://github.com/EndikaCo/app_bluetooth_bike) | Android app to connect and control Ebike with HC-05 module. | Kotlin / Compose |
+| [app_my_invoice](https://github.com/EndikaCo/app_my_invoice) | Example of a mobile app for corporate billing | Kotlin / Compose |
+| [app_roll_dices](https://github.com/EndikaCo/app_roll_dices) | small app for rolling a die | Kotlin / XML |
+| [app_saber_y_beber ](https://github.com/EndikaCo/app_saber_y_beber) | Online App for young people to have fun at parties answering general knowledge questions against other players| Kotlin / XML |
+| [42_Philoshophers](https://github.com/EndikaCo/42_philosophers) | Multi-thread managing program representing the problem of the dining philosophers. | C / Makefile |
+| [42_cpp](https://github.com/EndikaCo/42_cpp) | Small OOP scrips to learn the basics of C++ language. | C++ / Makefile |
+
+###
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=endikaco&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)  
 
 ![Visitor Count](https://profile-counter.glitch.me/endikaco/count.svg)
-<br>
 
-Last Edited on: 25/05/2023
-</div>
-
-
-</body>
-
+Last Edited on: 30/11/2023
