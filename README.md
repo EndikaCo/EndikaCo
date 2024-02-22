@@ -25,12 +25,15 @@
 
 | Project Name | Brief Description | Language / Technology |
 | --- | --- | --- |
-| [app_bluetooth_bike](https://github.com/EndikaCo/app_bluetooth_bike) | Android app to connect and control Ebike with HC-05 module. | Kotlin / Compose |
-| [app_my_invoice](https://github.com/EndikaCo/app_my_invoice) | Example of a mobile app for corporate billing | Kotlin / Compose |
-| [app_roll_dices](https://github.com/EndikaCo/app_roll_dices) | small app for rolling a die | Kotlin / XML |
-| [app_saber_y_beber ](https://github.com/EndikaCo/app_saber_y_beber) | Online App for young people to have fun at parties answering general knowledge questions against other players| Kotlin / XML |
-| [42_Philoshophers](https://github.com/EndikaCo/42_philosophers) | Multi-thread managing program representing the problem of the dining philosophers. | C / Makefile |
-| [42_cpp](https://github.com/EndikaCo/42_cpp) | Small OOP scrips to learn the basics of C++ language. | C++ / Makefile |
+| [app_bluetooth_bike](https://github.com/EndikaCo/app_bluetooth_bike) | App to connect and control by Bluetooth an Ebike (HC-05)                   | Kotlin / Compose |
+| [app_my_invoice](https://github.com/EndikaCo/app_my_invoice)         | Example of a mobile app for corporate billing                              | Kotlin / Compose |
+| [app_draw names](https://github.com/EndikaCo/app_name_draw)              | Simple app to draw random names previously added to a list.                | Kotlin / XML |
+| [app_saber_y_beber ](https://github.com/EndikaCo/app_saber_y_beber)  | Online App for answering general knowledge questions against other players | Kotlin / XML |
+| [app_roll_dices](https://github.com/EndikaCo/app_roll_dices)         | Simple App for rolling a die                                               | Kotlin / XML |
+| [42_Philoshophers](https://github.com/EndikaCo/42_philosophers)      | Multi-thread c program representing the problem of the dining philosophers.| C / Makefile |
+| [42_so_long](https://github.com/EndikaCo/42_so_long)                 | 2D game using mlx library for UI from 42 campus                            | C / Makefile |
+| [42_cpp](https://github.com/EndikaCo/42_cpp)                         | Small OOP scrips to learn the basics of C++ language.                      | C++ / Makefile |
+
 
 ###
 
