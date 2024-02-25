@@ -27,8 +27,8 @@
 | --- | --- | --- |
 | [app_bluetooth_bike](https://github.com/EndikaCo/app_bluetooth_bike) | App to connect and control by Bluetooth an Ebike (HC-05)                   | Kotlin / Compose |
 | [app_my_invoice](https://github.com/EndikaCo/app_my_invoice)         | Example of a mobile app for corporate billing                              | Kotlin / Compose |
-| [app_draw names](https://github.com/EndikaCo/app_name_draw)              | Simple app to draw random names previously added to a list.                | Kotlin / XML |
 | [app_saber_y_beber ](https://github.com/EndikaCo/app_saber_y_beber)  | Online App for answering general knowledge questions against other players | Kotlin / XML |
+| [app_draw names](https://github.com/EndikaCo/app_name_draw)          | Simple app to draw random names previously added to a list.                | Kotlin / XML |
 | [app_roll_dices](https://github.com/EndikaCo/app_roll_dices)         | Simple App for rolling a die                                               | Kotlin / XML |
 | [42_Philoshophers](https://github.com/EndikaCo/42_philosophers)      | Multi-thread c program representing the problem of the dining philosophers.| C / Makefile |
 | [42_so_long](https://github.com/EndikaCo/42_so_long)                 | 2D game using mlx library for UI from 42 campus                            | C / Makefile |
@@ -40,5 +40,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=endikaco&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)  
 
 ![Visitor Count](https://profile-counter.glitch.me/endikaco/count.svg)
-
-Last Edited on: 30/11/2023
