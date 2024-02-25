@@ -1,27 +1,37 @@
 # Hey there, I'm Endika. Welcome to my profile!
 
-[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endika-correia-alonso-023b27121/)
 [![Gmail contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endikacorreia@gmail.com)
+[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endika-correia-alonso-023b27121/)
+[![Google Play](https://img.shields.io/badge/Play_Store-grey?style=for-the-badge&logo=google-play&logoColor=cyan)](https://play.google.com/store/apps/developer?id=endcodev)
 
 📱 Android developer.  
 🌱 Currently learning Jetpack compose (Kotlin).  
 
 ### Languajes
-![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin&logoColor=-black)
-![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell%20script-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=Kotlin&logoColor=-black)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Shell Script](https://img.shields.io/badge/shell%20script-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://es.wikipedia.org/wiki/Bash)
+
 ### Skills
-![Android Studio](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=androidstudio&logoColor=green)
-![Compose](https://img.shields.io/badge/Compose-grey?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/</>XML-black.svg?style=for-the-badge&logo=xml&logoColor=white)
-![ROOM](https://img.shields.io/badge/ROOM-grey?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=Firebase)  
-![Google Play](https://img.shields.io/badge/Play_Store-grey?style=for-the-badge&logo=google-play&logoColor=cyan)
-![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions_CI/CD-D24939?style=for-the-badge&logo=GitHub&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=androidstudio&logoColor=green)](https://developer.android.com/studio?hl=es-419)
+[![XML](https://img.shields.io/badge/</>XML-black.svg?style=for-the-badge&logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
+[![Compose](https://img.shields.io/badge/Jetpack_Compose-grey?style=for-the-badge&logo=android&logoColor=green)](https://developer.android.com/jetpack/compose?hl=es-419)
+[![Canvas](https://img.shields.io/badge/canvas-grey?style=for-the-badge&logo=canvas&logoColor=blue)](https://developer.android.com/reference/kotlin/android/graphics/Canvas)
+[![Figma](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=orange)](https://www.figma.com/)
+[![Google Analytics](https://img.shields.io/badge/Analytics-grey?style=for-the-badge&logo=google%20analytics&logoColor=orange)](https://analytics.google.com/)
+[![GitHub Actions](https://img.shields.io/badge/Actions_CI/CD-grey?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/features/actions)
+
+[![MVVM](https://img.shields.io/badge/MVVM-grey?style=for-the-badge&logo=)](https://learn.microsoft.com/en/dotnet/architecture/maui/mvvm)
+[![Live Data](https://img.shields.io/badge/Live_Data-grey?style=for-the-badge&logo=)](https://developer.android.com/topic/libraries/architecture/livedata)
+[![State Flow](https://img.shields.io/badge/State_Flow-grey?style=for-the-badge&logo=)](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
+[![ROOM](https://img.shields.io/badge/ROOM-grey?style=for-the-badge&logo=mysql&logoColor=white)](https://developer.android.com/training/data-storage/room/)
+[![Dagger](https://img.shields.io/badge/Dagger_Hilt-grey?style=for-the-badge&logo=)](https://dagger.dev/hilt/)
+[![Retrofit](https://img.shields.io/badge/Retrofit-grey?style=for-the-badge&logo=)](https://square.github.io/retrofit/)
+[![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=Firebase)](https://firebase.google.com/?hl=en-419)
+
+
 
 | Project Name | Brief Description | Language / Technology |
 | --- | --- | --- |
