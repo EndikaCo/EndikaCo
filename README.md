@@ -1,7 +1,6 @@
 # Hey there, I'm Endika. Welcome to my profile!
 
 [![Gmail contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endikacorreia@gmail.com)
-[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endika-correia-alonso-023b27121/)
 [![Google Play](https://img.shields.io/badge/Play_Store-grey?style=for-the-badge&logo=google-play&logoColor=cyan)](https://play.google.com/store/apps/developer?id=endcodev)
 
 📱 Android developer.  
